@@ -11,7 +11,7 @@ class App extends Component {
         imgSrc: "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709555369/jsx%20checkpoint/Sam%20Smith.png", // Replace with your image URL
         profession: "Music Artist",
       },
-      show: true,
+      show: false,
       mountTime: null,
     };
   }
